@@ -18,9 +18,7 @@ Create a .env file in your app's root folder and add this code:
   `````````````
 This line, 'to = "/src/App.js" ', in the above code indicates the location of the file that's is rendered first when your app is deployed.
 
-Open the terminal in your root folder and run the command,
-
-npm run build
+Open the terminal in your root folder and run the command, npm run build
 
 A build folder will be generated.
 
