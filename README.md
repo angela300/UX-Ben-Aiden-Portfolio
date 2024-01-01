@@ -22,7 +22,7 @@ Open the terminal in your root folder and run the command, npm run build
 
 A build folder will be generated
 
-Visit Netlify and click on 'Add new site', theN click on 'Deploy manually'
+Visit Netlify and click on 'Add new site', then click on 'Deploy manually'
 
 Upload the Build folder
 
