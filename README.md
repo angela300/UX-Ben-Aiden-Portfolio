@@ -20,9 +20,9 @@ This line, 'to = "/src/App.js" ', in the above code indicates the location of th
 
 Open the terminal in your root folder and run the command, npm run build
 
-A build folder will be generated.
+A build folder will be generated
 
-Visit netlify and click on 'Add new site', the click on 'Deploy manually'
+Visit Netlify and click on 'Add new site', theN click on 'Deploy manually'
 
 Upload the Build folder
 
