@@ -5,7 +5,7 @@ Deployed on Netlify, here is how to deploy on Netlify:
 
 Create an accout on Netlify and Log in
 
-Create a .env file in your apps root folder and add this code:
+Create a .env file in your app's root folder and add this code:
   `````````````
 [build]
   command = "npm run build"
